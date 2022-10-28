@@ -32,7 +32,7 @@
   background-color: #B7C4CF;
   border-radius: 5px;
   padding: 10px;
-  margin-bottom: 15px
+  margin-bottom: 15px;
 }
 
 .p-padding {
@@ -45,7 +45,9 @@
   background-color: black;
   border-radius: 5px;
   color: white;
-  border: none
+  border: none;
+  text-decoration: none;
+  display: inline-block;
 }
 
 .btn-primary:hover {
@@ -74,4 +76,8 @@
 
 .icons-colored:hover {
   color: rgb(94, 93, 93);
+}
+
+#logo-finstreet {
+  width: 25;
 }
